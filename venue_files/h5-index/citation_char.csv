@@ -1,0 +1,816 @@
+venue,char,h5-index
+irbm,4,18.0
+xrds,4,13.0
+gene,4,61.0
+cell,4,288.0
+cities,6,67.0
+system,6,
+methods,7,57.0
+ai open,7,
+displays,8,23.0
+the breast,10,48.0
+automatica,10,109.0
+integration,11,25.0
+sigir forum,11,13.0
+ebiomedicine,12,82.0
+energy policy,13,100.0
+phytomedicine,13,49.0
+data in brief,13,42.0
+physica medica,14,37.0
+safety science,14,76.0
+school security,15,6.0
+poultry science,15,50.0
+social networks,15,41.0
+materials today,15,88.0
+energy procedia,15,61.0
+the vldb journal,16,33.0
+isa transactions,16,59.0
+renewable energy,16,117.0
+epilepsy research,17,26.0
+signal processing,17,68.0
+applied acoustics,17,49.0
+acta astronautica,17,49.0
+ieee cloud summit,17,
+academic radiology,18,41.0
+aquatic toxicology,18,51.0
+fire safety journal,19,37.0
+mensch und computer,19,
+procedia technology,19,37.0
+cell host & microbe,19,116.0
+process biochemistry,20,48.0
+composite structures,20,89.0
+measurement: sensors,20,
+procedia engineering,20,67.0
+speech communication,20,28.0
+the computer journal,20,
+ieee milan powertech,20,
+manufacturing letters,21,26.0
+optics communications,21,46.0
+earth-science reviews,21,91.0
+first syssec workshop,21,
+biotechnology advances,22,86.0
+fuzzy sets and systems,22,48.0
+analytica chimica acta,22,79.0
+acm ikdd cods and comad,23,
+acm trans. comput. syst.,24,
+building and environment,24,85.0
+optical fiber technology,24,29.0
+acm j. exp. algorithmics,24,
+acm/ims trans. data sci.,24,
+gene expression patterns,24,14.0
+annals of nuclear energy,24,35.0
+proceedings ieee infocom,24,70.0
+data science for covid-19,25,
+computer fraud & security,25,21.0
+diagnostic histopathology,25,11.0
+ieee conference anthology,25,
+world automation congress,25,13.0
+biometric technology today,26,9.0
+gastrointestinal endoscopy,26,73.0
+cognitive systems research,26,39.0
+acm web science conference,26,30.0
+ieee cyberpels (cyberpels),26,
+ieee aerospace conference ,26,28.0
+journal of ginseng research,27,
+ieee communications letters,27,78.0
+smart grid conference (sgc),27,10.0
+bell labs technical journal,27,
+national cyber summit (ncs),27,
+health policy and technology,28,24.0
+microelectronics reliability,28,36.0
+journal of thoracic oncology,28,94.0
+trends in cognitive sciences,28,107.0
+data & knowledge engineering,28,24.0
+journal of ethnopharmacology,28,64.0
+ieee control systems letters,28,27.0
+infrared physics & technology,29,39.0
+the world wide web conference,29,
+ain shams engineering journal,29,48.0
+annual srii global conference,29,
+ieee control systems magazine,29,36.0
+saiee africa research journal,29,
+computer law & security review,30,35.0
+ieee vlsi test symposium (vts),30,14.0
+ieee signal processing letters,30,65.0
+saudi arabia smart grid (sasg),30,
+new security paradigms workshop,31,
+computers & operations research,31,61.0
+journal of lightwave technology,31,84.0
+ieee power electronics magazine,31,23.0
+asian control conference (ascc),31,12.0
+advanced engineering informatics,32,48.0
+acm trans. softw. eng. methodol.,32,24.0
+j. emerg. technol. comput. syst.,32,
+microprocessors and microsystems,32,31.0
+journal of computational science,32,46.0
+acm trans. model. comput. simul.,32,17.0
+proceedings of ieee southeastcon,32,20.0
+ieee internet of things magazine,32,11.0
+chinese control conference (ccc),32,24.0
+journal of the franklin institute,33,55.0
+applied computing and informatics,33,34.0
+ieee transactions on broadcasting,33,38.0
+chinese automation congress (cac),33,16.0
+telecommunications forum (telfor),33,14.0
+trends in pharmacological sciences,34,77.0
+ieee world ai iot congress (aiiot),34,
+nuclear engineering and technology,34,33.0
+ieee computer architecture letters,34,19.0
+ieee transactions on fuzzy systems,34,96.0
+ieee european test symposium (ets),34,15.0
+applied mathematics and computation,35,69.0
+acm trans. spatial algorithms syst.,35,14.0
+proc. acm meas. anal. comput. syst.,35,
+ieee industrial electronics magazine,36,33.0
+environmental technology & innovation,37,40.0
+conference on robots and vision (crv),37,17.0
+ieee space computing conference (scc),37,
+ieee ninth world congress on services,37,12.0
+virtual reality & intelligent hardware,38,
+artificial intelligence in agriculture,38,
+journal of infection and public health,38,50.0
+signal processing: image communication,38,42.0
+artificial intelligence in data mining,38,12.0
+acm computer science in cars symposium,38,
+ieee reviews in biomedical engineering,38,35.0
+ieee communications standards magazine,38,27.0
+annual ieee india conference (indicon),38,14.0
+living in the internet of things (iot),38,
+journal of visual languages & computing,39,19.0
+journal of computer and system sciences,39,28.0
+journal of accounting and public policy,39,28.0
+forensic science international: synergy,39,10.0
+current opinion in chemical engineering,39,37.0
+ieee transactions on information theory,39,87.0
+ist-africa week conference (ist-africa),39,13.0
+ieee transactions on services computing,39,65.0
+ieee annals of the history of computing,39,10.0
+national power systems conference (npsc),40,15.0
+ieee transactions on affective computing,40,52.0
+spring simulation conference (springsim),40,14.0
+computerized medical imaging and graphics,41,40.0
+proceedings of the acm sigcomm conference,41,63.0
+ieee open journal of the computer society,41,
+global smart industry conference (glosic),41,10.0
+ieee instrumentation measurement magazine,41,17.0
+ieee transactions on sustainable computing,42,31.0
+international conference on cyber security,42,
+ieee/acm symposium on edge computing (sec),42,23.0
+journal of clinical orthopaedics and trauma,43,29.0
+chronic diseases and translational medicine,43,20.0
+acm trans. multimedia comput. commun. appl.,43,37.0
+journal of electromyography and kinesiology,43,30.0
+proceedings of the acm southeast conference,43,
+technological forecasting and social change,43,106.0
+irish signals and systems conference (issc),43,13.0
+tencon - ieee region 10 conference (tencon),43,25.0
+second worldwide cybersecurity summit (wcs),43,
+ieee transactions on engineering management,43,33.0
+ieee transactions on biomedical engineering,43,74.0
+"ieee systems, man, and cybernetics magazine",43,15.0
+ieee/acm trans. comput. biol. bioinformatics,44,
+proceedings of the workshop at siggraph asia,44,
+journal of materials research and technology,44,48.0
+proceedings of the symposium on sdn research,44,27.0
+progress in biophysics and molecular biology,44,34.0
+ieee frontiers in education conference (fie),44,20.0
+ifip networking conference (ifip networking),44,21.0
+ieee conference on wireless sensors (icwise),44,
+"ieee/acm trans. audio, speech and lang. proc.",45,60.0
+ieee industrial cyber-physical systems (icps),45,17.0
+conference on computer and robot vision (crv),45,17.0
+national computing colleges conference (nccc),45,
+ieee texas power and energy conference (tpec),45,15.0
+sustainable computing: informatics and systems,46,28.0
+international journal of approximate reasoning,46,42.0
+ieee kansas power and energy conference (kpec),46,
+international conference on information fusion,46,27.0
+international conference on telecommunications,46,21.0
+ieee aerospace and electronic systems magazine,46,25.0
+companion proceedings of the the web conference,47,
+karbala international journal of modern science,47,20.0
+ieee vehicular technology conference (vtc-fall),47,42.0
+international conference on security technology,47,
+proceedings of the acm conference on web science,48,30.0
+encyclopedia of animal behavior (second edition),48,
+contemporary security management (third edition),48,
+international journal of disaster risk reduction,48,57.0
+cyber security experimentation and test workshop,48,
+conference on data mining and optimization (dmo),48,
+ieee international conference on networks (icon),48,
+symposium on reliable distributed systems (srds),48,17.0
+ieee international multitopic conference (inmic),48,13.0
+third world conference on complex systems (wccs),48,
+proceedings of the symposium on applied computing,49,29.0
+proceedings of the acm india computing convention,49,
+conference on cloud and internet of things (ciot),49,
+ieee international smart cities conference (isc2),49,24.0
+moratuwa engineering research conference (mercon),49,17.0
+ieee power energy society general meeting (pesgm),49,85.0
+ieee vehicular technology conference (vtc spring),49,42.0
+international conference on communications (comm),49,
+isprs journal of photogrammetry and remote sensing,50,82.0
+international conference on multimodal interaction,50,
+international conference on microelectronics (icm),50,13.0
+ieee electrical power and energy conference (epec),50,9.0
+international conference on information technology,50,16.0
+ieee transactions on geoscience and remote sensing,50,103.0
+international workshop on biometrics and forensics,50,15.0
+international conference on universal village (uv),50,
+international conference on cyber conflict (cycon),50,16.0
+journal of communications and information networks,50,20.0
+ieee conference on dependable and secure computing,50,14.0
+ieee transactions on multi-scale computing systems,50,25.0
+ieee computer security foundations symposium (csf),50,27.0
+proceedings of the balkan conference in informatics,51,
+iranian conference on electrical engineering (icee),51,16.0
+"ieee pes innovative smart grid technologies, europe",51,20.0
+third asian conference on defence technology (acdt),51,
+proceedings of the acm sigcomm conference on sigcomm,52,63.0
+international conference on social media and society,52,17.0
+proceedings of the workshop on moving target defense,52,
+proceedings of the northwest cybersecurity symposium,52,
+aiaa/ieee digital avionics systems conference (dasc),52,21.0
+international conference on cyberspace (cyber-abuja),52,
+physica a: statistical mechanics and its applications,53,70.0
+ieee transactions on parallel and distributed systems,53,61.0
+mediterranean conference on embedded computing (meco),53,19.0
+international conference on anti-cyber crimes (icacc),53,
+ieee world engineering education conference (edunine),53,3.0
+proceedings of the acm internet measurement conference,54,
+artificial intelligence and cloud computing conference,54,12.0
+international conference on embedded software (emsoft),54,
+national aerospace and electronics conference (naecon),54,13.0
+ieee international symposium on industrial electronics,54,20.0
+"asilomar conference on signals, systems, and computers",54,30.0
+annual conference system of systems engineering (sose),54,19.0
+international symposium on next-generation electronics,54,6.0
+proceedings of the acm/ieee symposium on edge computing,55,23.0
+journal of logical and algebraic methods in programming,55,21.0
+ieee international conference on complex systems (iccs),55,12.0
+international conference on telecommunications (contel),55,
+ieee open journal of intelligent transportation systems,55,
+seventh european conference on computer network defense,55,
+international conference on network and system security,55,10.0
+ieee transactions on automation science and engineering,55,62.0
+ieee computer society annual symposium on vlsi (isvlsi),55,21.0
+ieee international conference on computer vision (iccv),55,184.0
+international conference on cyber conflict (cycon u.s.),55,16.0
+international conference on information fusion (fusion),55,27.0
+ieee international scientific conference on informatics,55,9.0
+european symposium on computer aided process engineering,56,
+proceedings of the european workshop on systems security,56,
+asia joint conference on information security (asiajcis),56,
+ieee transactions on visualization and computer graphics,56,82.0
+ieee applied imagery pattern recognition workshop (aipr),56,13.0
+ieee mediterranean electrotechnical conference (melecon),56,14.0
+mediterranean conference on control and automation (med),56,21.0
+ieee international joint conference on biometrics (ijcb),56,27.0
+ieee international conference on blockchain (blockchain),56,17.0
+ieee international conference on image processing (icip),56,60.0
+proceedings of the symposium on agent directed simulation,57,
+international conference on machine learning technologies,57,16.0
+proceedings of the pan-hellenic conference on informatics,57,
+"computing, communications and iot applications (comcomap)",57,3.0
+international conference on data mining workshops (icdmw),57,
+ieee international conference on intelligent systems (is),57,16.0
+saudi computer society national computer conference (ncc),57,10.0
+international conference on information technology (icit),57,16.0
+ieee international symposium on biomedical imaging (isbi),57,50.0
+ieee international conference on cloud engineering (ic2e),57,25.0
+network traffic measurement and analysis conference (tma),57,16.0
+first international symposium on computing and networking,57,12.0
+international conference on cloud and autonomic computing,57,
+ieee intelligent transportation systems conference (itsc),57,49.0
+ieee international symposium on information theory (isit),57,61.0
+proceedings of the communications and networking symposium,58,
+ieee workshop on information forensics and security (wifs),58,22.0
+international workshop on secure internet of things (siot),58,
+ieee congress on information science and technology (cist),58,16.0
+international conference on robotics and automation (icra),58,105.0
+ieee international conference on control automation (icca),58,15.0
+european conference on networks and communications (eucnc),58,25.0
+ieee international conference on fuzzy systems (fuzz-ieee),58,22.0
+latin american network operations and management symposium,58,
+international journal of cognitive computing in engineering,59,
+proceedings of the seventh acm symposium on cloud computing,59,33.0
+ieee latin-american conference on communications (latincom),59,
+international conference on the network of the future (nof),59,12.0
+international conference on malicious and unwanted software,59,
+ieee conference on information and communication technology,59,18.0
+ieee joint intelligence and security informatics conference,59,
+ieee wireless and microwave technology conference (wamicon),59,12.0
+ieee international conference on rebooting computing (icrc),59,18.0
+ieee symposium on visualization for cyber security (vizsec),59,
+ieee conference on technologies for homeland security (hst),59,
+"international conference on networking, systems and security",60,
+proceedings of the central european cybersecurity conference,60,
+innovations in intelligent systems and applications (inista),60,17.0
+international conference on intelligent technologies (conit),60,
+ieee conference on automation science and engineering (case),60,22.0
+international symposium on quality electronic design (isqed),60,18.0
+ieee international conference on cloud networking (cloudnet),60,29.0
+international conference on hybrid intelligent systems (his),60,9.0
+ieee/acm international workshop on metamorphic testing (met),60,
+international conference on computing and data science (cds),60,
+ieee international symposium on reliable distributed systems,60,17.0
+living in the internet of things: cybersecurity of the iot -,60,
+ieee international parallel distributed processing symposium,60,40.0
+optical fiber communications conference and exhibition (ofc),60,46.0
+international conference on data science engineering (icdse),60,
+ninth international conference on advanced computing (icoac),60,12.0
+computational intelligence and its applications in healthcare,61,
+international journal of information management data insights,61,
+proceedings of the acm international conference on multimedia,61,65.0
+proceedings of the international conference on digital health,61,17.0
+proceedings of the acm/edac/ieee design automation conference,61,51.0
+proceedings of the forum for information retrieval evaluation,61,17.0
+international conference on unmanned aircraft systems (icuas),61,31.0
+ieee wireless communications and networking conference (wcnc),61,25.0
+international conference on machine learning and applications,61,33.0
+ieee international symposium on industrial electronics (isie),61,20.0
+ieee international conference on data mining workshop (icdmw),61,
+working ieee/ifip conference on software architecture (wicsa),61,
+ieee central america and panama convention (concapan xxxviii),61,7.0
+international conference for convergence in technology (i2ct),61,16.0
+ieee eurocon - international conference on smart technologies,61,
+ieee international conference on mobile data management (mdm),61,17.0
+proceedings of the afternoon workshop on self-driving networks,62,
+proceedings of the first acm workshop on moving target defense,62,
+ieee international symposium on information theory proceedings,62,
+international conference on information assurance and security,62,
+international symposium on reliable distributed systems (srds),62,17.0
+ieee conference on information communication technology (cict),62,18.0
+"ieee international conference on systems, man, and cybernetics",62,32.0
+ieee international conference on data mining workshops (icdmw),62,
+ieee/cvf conference on computer vision and pattern recognition,62,356.0
+iranian joint congress on fuzzy and intelligent systems (cfis),62,
+international universities power engineering conference (upec),62,
+eighth latin-american symposium on dependable computing (ladc),62,
+international conference on power system technology (powercon),62,
+ieee/acm international symposium on quality of service (iwqos),62,
+ieee conference on intelligence and security informatics (isi),62,
+nafosted conference on information and computer science (nics),62,
+proceedings of the second acm workshop on moving target defense,63,
+acm comput. surv.intrusion detection systems vulnerability on a,63,
+proceedings of the international middleware conference industry,63,
+international conference on informatics and creative multimedia,63,
+international conference on security and cryptography (secrypt),63,
+"sibgrapi conference on graphics, patterns and images (sibgrapi)",63,
+"design, automation test in europe conference exhibition (date),",63,
+"ieee/acm transactions on audio, speech, and language processing",63,
+ieee international conference on industrial informatics (indin),63,
+"ieee transactions on biometrics, behavior, and identity science",63,
+ieee applied power electronics conference and exposition (apec),63,
+proceedings of the international symposium on quality of service,64,
+international conference on security of information and networks,64,
+the annual ieee/acm international symposium on microarchitecture,64,
+itu kaleidoscope: industry-driven digital transformation (itu k),64,
+ieee pes innovative smart grid technologies europe (isgt-europe),64,
+conference on computer science and information systems (fedcsis),64,
+international conference of system of systems engineering (sose),64,
+proceedings of the acm workshop on cyber-physical system security,65,
+proceedings of the conference on information technology education,65,
+proceedings of the asia pacific information technology conference,65,
+proceedings of the twelfth acm workshop on hot topics in networks,65,
+proceedings of the acm international conference on supercomputing,65,
+proceedings of the hellenic conference on artificial intelligence,65,
+second international conference on transdisciplinary ai (transai),65,
+international symposium on digital forensics and security (isdfs),65,
+international conference on machine vision and applications (mva),65,
+global information infrastructure and networking symposium (giis),65,
+ieee/acm transactions on computational biology and bioinformatics,65,
+ieee journal of emerging and selected topics in power electronics,65,
+international conference on inventive systems and control (icisc),65,
+ieee fifth international conference on multimedia big data (bigmm),66,
+ieee international conference on information and automation (icia),66,
+international conference on smart systems and data science (icssd),66,
+fifth international symposium on computing and networking (candar),66,
+fifth international conference on informatics and computing (icic),66,
+ieee sixth international conference on multimedia big data (bigmm),66,
+international conference on ict and knowledge engineering (ict ke),66,
+ieee/acm international conference on computer aided design (iccad),66,
+novel intelligent and leading emerging sciences conference (niles),66,
+second international conference on informatics applications (icia),66,
+ieee/acm international conference on computer-aided design (iccad),66,
+ieee international workshop on multimedia signal processing (mmsp),66,
+journal of traffic and transportation engineering (english edition),67,
+international conference on data science and information technology,67,
+proceedings of the international conference on big data engineering,67,
+conference on data science and machine learning applications (cdma),67,
+international conference on software security and assurance (icssa),67,
+igarss - ieee international geoscience and remote sensing symposium,67,
+international isc conference on information security and cryptology,67,
+"international computer conference, computer society of iran (csicc)",67,
+ieee lcn symposium on emerging topics in networking (lcn symposium),67,
+ieee international conference on cyber security and cloud computing,67,
+proceedings of the international conference on compiler construction,68,
+proceedings of the acm workshop on wearable systems and applications,68,
+proceedings of the acm workshop on cloud computing security workshop,68,
+"ieee international conference on systems, man, and cybernetics (smc)",68,
+international conference on information science and security (iciss),68,
+international conference on wavelet analysis and pattern recognition,68,
+international conference on machine learning and cybernetics (icmlc),68,
+"international conference on control, automation and robotics (iccar)",68,
+international conference on information assurance and security (ias),68,
+third international workshop on cyberspace safety and security (css),68,
+ieee transactions on signal and information processing over networks,68,
+international conference on new trends in computing sciences (ictcs),68,
+proceedings of the annual industrial control system security workshop,69,
+proceedings of the symposium on hot topics in the science of security,69,
+proceedings of the annual acm sigact symposium on theory of computing,69,
+proceedings of the international conference on multimodal interaction,69,
+"the international conference on networks, communication and computing",69,
+international journal of applied earth observation and geoinformation,69,
+international informatics and software engineering conference (ubmyk),69,
+international conference on communication systems networks (comsnets),69,
+"integrated communications, navigation, surveillance conference (icns)",69,
+ieee conference on computer communications workshops (infocom wkshps),69,
+ieee conference on service-oriented computing and applications (soca),69,
+ieee latin american conference on computational intelligence (la-cci),69,
+"international conference on control, automation and diagnosis (iccad)",69,
+ieee international conference on engineering and technology (icetech),69,
+proceedings of the international conference on smart city applications,70,
+proceedings of the international conference on information engineering,70,
+proceedings of the acm international conference on autonomic computing,70,
+proceedings of the first workshop on radical and experiential security,70,
+ieee international performance computing and communications conference,70,
+international conference on machine vision and image processing (mvip),70,
+international conference on inventive computation technologies (icict),70,
+ieee pes asia-pacific power and energy engineering conference (appeec),70,
+ieee/acm workshop on education for high-performance computing (eduhpc),70,
+international conference on computer and communication systems (icccs),70,
+"twelfth annual international conference on privacy, security and trust",70,
+ieee/pes transmission and distribution conference and exposition (t d),70,
+proceedings of the acm symposium on principles of distributed computing,71,
+proceedings of the international conference on world wide web companion,71,
+proceedings of the acm workshop on workshop on cyber-security arms race,71,
+the pervasive technologies related to assistive environments conference,71,
+proceedings of the joint meeting on foundations of software engineering,71,
+proceedings of the chi conference on human factors in computing systems,71,
+integrated communications navigation and surveillance conference (icns),71,
+international conference on computer and information technology (iccit),71,
+"ieee conference on software testing, verification and validation (icst)",71,
+international conference on cyber conflict: architectures in cyberspace,71,
+ieee symposium on computer applications industrial electronics (iscaie),71,
+international conference on innovations in information technology (iit),71,
+international conference on developments in esystems engineering (dese),71,
+ieee third international conference on data science in cyberspace (dsc),71,
+fault diagnosis and prognosis techniques for complex engineering systems,72,
+proceedings of the international conference on compute and data analysis,72,
+proceedings of the annual conference on information technology education,72,
+"ieee international conference on networking, sensing and control (icnsc)",72,
+seventh international conference on emerging security technologies (est),72,
+tenth international conference on ubiquitous and future networks (icufn),72,
+fifth international conference on ubiquitous and future networks (icufn),72,
+ieee wireless communications and networking conference workshops (wcncw),72,
+international conference on high performance computing simulation (hpcs),72,
+ieee international conference of safety produce informatization (iicspi),72,
+international conference on computing and information technology (iccit),72,
+proceedings of the international conference on security and cryptography,72,
+ieee real-time and embedded technology and applications symposium (rtas),72,
+proceedings of the workshop on secure programmable network infrastructure,73,
+proceedings of the workshop on machine learning on edge in sensor systems,73,
+proceedings of the ninth australasian data mining conference - volume 121,73,
+proccedings of the european conference on software architecture workshops,73,
+proceedings of the conference on autonomous agents and multiagent systems,73,
+proceedings of the workshop on attacks and solutions in hardware security,73,
+international conference on artificial intelligence and big data (icaibd),73,
+ieee international conference on industrial cyber physical systems (icps),73,
+ieee international conference on communications workshops (icc workshops),73,
+ieee international symposium on high assurance systems engineering (hase),73,
+international conference for internet technology and secured transactions,73,
+international conference on contemporary computing and informatics (ic3i),73,
+international conference on information and communication systems (icics),73,
+ieee/acm international conference on automated software engineering (ase),73,
+"international conference on availability, reliability and security (ares)",73,
+international conference on scientific and statistical database management,74,
+ieee international conference on computer and information technology (cit),74,
+international conference on computing communication and automation (iccca),74,
+international conference on big data analysis and computer science (bdacs),74,
+international conference on advanced technologies for communications (atc),74,
+"ieee international conference on automation, quality and testing, robotics",74,
+ieee international conference on prognostics and health management (icphm),74,
+federated conference on computer science and information systems (fedcsis),74,
+ieee international conference on computer research and development (iccrd),74,
+"international conference on electronics, computer and computation (icecco)",74,
+sixth international conference on mobile and secure services (mobisecserv),74,
+eighth international conference on information technology: new generations,74,
+proceedings of the acm sigkdd workshop on outlier detection and description,75,
+proceedings of the fourth international conference on engineering &amp; mis,75,
+ieee international conference on computer and communication systems (icccs),75,
+international conference on dependable systems and their applications (dsa),75,
+youth academic annual conference of chinese association of automation (yac),75,
+international conference on cloud technologies and applications (cloudtech),75,
+ieee international conference on intelligence and safety for robotics (isr),75,
+"ieee international conference on software quality, reliability and security",75,
+international joint conference on e-business and telecommunications (icete),75,
+international conference on smart systems and inventive technology (icssit),75,
+ieee winter conference on applications of computer vision workshops (wacvw),75,
+international conference on cyber security for emerging technologies (cset),75,
+international conference on pattern analysis and intelligent systems (pais),75,
+ieee international conference on cloud computing in emerging markets (ccem),75,
+proceedings of the international workshop on advances in mobile app analysis,76,
+proceedings of the international conference on parallel processing companion,76,
+proceedings of the acm sigcomm conference on internet measurement conference,76,
+proceedings of the conference on research in adaptive and convergent systems,76,
+proceedings of the annual conference on genetic and evolutionary computation,76,
+international conference on intelligent networking and collaborative systems,76,
+international bhurban conference on applied sciences and technology (ibcast),76,
+international isc conference on information security and cryptology (iscisc),76,
+ieee international conference on consumer electronics - taiwan (icce-taiwan),76,
+international conference on innovation in engineering and technology (iciet),76,
+international workshop on microprocessor and soc test and verification (mtv),76,
+"ieee international symposium on safety, security, and rescue robotics (ssrr)",76,
+ieee international symposium on local and metropolitan area networks (lanman,76,
+international conference on virtual reality and intelligent systems (icvris),76,
+ieee international conference on smart city/socialcom/sustaincom (smartcity),76,
+"ieee international iot, electronics and mechatronics conference (iemtronics)",76,
+proceedings of the international conference on e-business and mobile commerce,77,
+proceedings of the acm workshop on information hiding and multimedia security,77,
+proceedings of the twenty-third acm symposium on operating systems principles,77,
+proceedings of the multidisciplinary international social networks conference,77,
+proceedings of the international conference on real-time networks and systems,77,
+ieee eighth international conference on communications and electronics (icce),77,
+ieee international conference of safe production and informatization (iicspi),77,
+international conference on artificial intelligence and smart systems (icais),77,
+ieee international workshop on artificial intelligence for mobile (ai4mobile),77,
+international conference on information and communication technology (icoict),77,
+international conference on computer graphics theory and applications (grapp),77,
+international conference on research challenges in information science (rcis),77,
+ieee international symposium on biomedical imaging workshops (isbi workshops),77,
+international conference on computing and communications technologies (iccct),77,
+"international conference on control, automation, robotics and vision (icarcv)",77,
+"ieee international conference on engineering, technology and education (tale)",77,
+"international conference on engineering, technology and innovation (ice/itmc)",77,
+ieee first international conference on cognitive machine intelligence (cogmi),77,
+proceedings of the workshop on privacy-preserving machine learning in practice,78,
+journal of the association of arab universities for basic and applied sciences,78,
+proceedings of the international workshop on managing insider security threats,78,
+international conference on protection and automation of power systems (ipaps),78,
+"annual allerton conference on communication, control, and computing (allerton)",78,
+international symposium on communications and information technologies (iscit),78,
+international conference on computer communication and network security (ccns),78,
+ieee international conference on future internet of things and cloud (ficloud),78,
+"ieee/acm international symposium on cluster, cloud and grid computing (ccgrid)",78,
+international conference on intelligent robotic and control engineering (irce),78,
+ieee power energy society innovative smart grid technologies conference (isgt),78,
+"conference on innovation in clouds, internet and networks and workshops (icin)",78,
+international conference on smart computing and electronic enterprise (icscee),78,
+international conference on artificial intelligence and data processing (idap),78,
+international conference on technology and entrepreneurship - virtual (icte-v),78,
+ieee / itu international conference on artificial intelligence for good (ai4g),78,
+proceedings of the on genetic and evolutionary computation conference companion,79,
+proceedings of the acm international workshop on cyber-physical system security,79,
+proceedings of the annual conference on cyber and information security research,79,
+"proceedings of the acm conference on fairness, accountability, and transparency",79,
+ieee international conference on computing communication and automation (iccca),79,
+international conference on signal processing and information security (icspis),79,
+international conference on information and communications technology (icoiact),79,
+second international conference on the innovative computing technology (intech),79,
+seventh international symposium on computing and networking workshops (candarw),79,
+proceedings of the international conference on computer systems and technologies,80,
+proceedings of the acm workshop on secure and trustworthy cyber-physical systems,80,
+proceedings of the seventh symposium on information and communication technology,80,
+proceedings of the acm conference on innovations in theoretical computer science,80,
+international conference on wireless networks and mobile communications (wincom),80,
+international conference on artificial intelligence and signal processing (aisp),80,
+international conference on intelligent systems and knowledge engineering (iske),80,
+fourth international conference on intelligent computing in data sciences (icds),80,
+fourth international conference on communication systems and networks (comsnets),80,
+international conference on speech technology and human-computer dialogue (sped),80,
+proceedings of the acm conference on special interest group on data communication,81,
+proceedings of the international conference on communication and network security,81,
+proceedings of the workshop on automated decision making for active cyber defense,81,
+proceedings of the international conference on information system and data mining,81,
+proceedings of the international conference on intelligent information technology,81,
+conference of ai robotics and robocup iranopen international symposium (iranopen),81,
+fourth international conference on communication systems and network technologies,81,
+international conference on computational intelligence and communication networks,81,
+ieee international conference on advanced information networking and applications,81,
+"international conference on mechanical, control and computer engineering (icmcce)",81,
+third international conference on smart systems and inventive technology (icssit),81,
+ieee third international conference on information science and technology (icist),81,
+proceedings of the acm international conference on distributed event-based systems,82,
+proceedings of the fifth annual industrial control system security (icss) workshop,82,
+international conference on signal-image technology internet-based systems (sitis),82,
+ieee international conference on software engineering and service science (icsess),82,
+"international conference on intelligent computing, automation and systems (icicas)",82,
+"international conference on information, intelligence, systems applications (iisa)",82,
+"international conference on cloud computing, data science engineering (confluence)",82,
+international conference on computer information and big data applications (cibda),82,
+international conference on smart communications in network technologies (saconet),82,
+"international conference on security, pattern analysis, and cybernetics?ø¬º¬àspac)",82,
+proceedings of the first acm workshop on information hiding and multimedia security,83,
+proceedings of the ieee/acm international conference on utility and cloud computing,83,
+proceedings of the international workshop on formal methods in software engineering,83,
+the international conference on autonomous agents and multiagent systems - volume 3,83,
+fifth international conference on computing for geospatial research and application,83,
+"ieee international conference on biometrics theory, applications and systems (btas)",83,
+ieee international parallel and distributed processing symposium workshops (ipdpsw),83,
+first international conference on secure cyber computing and communication (icsccc),83,
+international conference on computing for sustainable global development (indiacom),83,
+"international conference on electronics, communications and computers (conielecomp)",83,
+international conference on malicious and unwanted software: the americas (malware),83,
+international conference on advanced computer science applications and technologies,83,
+ieee international conference on artificial intelligence and virtual reality (aivr),83,
+proceedings of the third acm conference on data and application security and privacy,84,
+proceedings of the first acm conference on data and application security and privacy,84,
+ieee international conference on cognitive informatics cognitive computing (icci*cc),84,
+acm/ieee symposium on architectures for networking and communications systems (ancs),84,
+ieee international conference on internet of things and intelligence system (iotais),84,
+ieee international conference on wireless for space and extreme environments (wisee),84,
+international conference on emerging elearning technologies and applications (iceta),84,
+international symposium on medical information and communication technology (ismict),84,
+international conference on military communications and information systems (icmcis),84,
+international conference on future internet of things and cloud workshops (ficloudw),84,
+proceedings of the eighth acm conference on data and application security and privacy,85,
+proceedings of the twelfth acm international conference on web search and data mining,85,
+proceedings of the acm sigcomm workshop on secure programmable network infrastructure,85,
+proceedings of the acm workshop on automated decision making for active cyber defense,85,
+proceedings of the acm symposium on qos and security for wireless and mobile networks,85,
+proceedings of the workshop on security and privacy in smartphones and mobile devices,85,
+proceedings of the the international conference on information system and data mining,85,
+"international conference on power energy, environment and intelligent control (peeic)",85,
+international conference on electronics and sustainable communication systems (icesc),85,
+ieee international conference on intelligent systems and knowledge engineering (iske),85,
+"international conference on power, energy, control and transmission systems (icpects)",85,
+"seventh international conference on bio signals, images, and instrumentation (icbsii)",85,
+ieee international symposium on signal processing and information technology (isspit),85,
+"international conference on malicious and unwanted software: ""the americas"" (malware)",85,
+second international conference on intelligent computing and control systems (iciccs),85,
+"ieee transactions on systems, man, and cybernetics, part c (applications and reviews)",85,
+"fourth ieee international conference on software testing, verification and validation",85,
+proceedings of the international workshop on mobile computing systems and applications,86,
+proceedings of the ieee/acm international conference on software engineering workshops,86,
+proceedings of the ieee/acm international conference on automated software engineering,86,
+proceedings of the international conference on internet of things and machine learning,86,
+proceedings of the international symposium on computer science and intelligent control,86,
+proceedings of the international conference on communications and broadband networking,86,
+proceedings of the fourth acm international workshop on security and privacy analytics,86,
+proceedings of the workshop on learning from authoritative security experiment results,86,
+international symposium on advanced electrical and communication technologies (isaect),86,
+"international conference on computing, communication, and intelligent systems (icccis)",86,
+"international conference on information, intelligence, systems and applications (iisa)",86,
+ieee international conference on computer supported cooperative work in design (cscwd),86,
+"annual ieee international conference on sensing, communication, and networking (secon)",86,
+"proceedings of the workshop on micro aerial vehicle networks, systems, and applications",87,
+proceedings of the international conference on autonomous agents and multiagent systems,87,
+proceedings of the acm international conference on information and knowledge management,87,
+proceedings of the first acm workshop on cyber-physical systems-security and/or privacy,87,
+international conference on ubiquitous information management and communication (imcom),87,
+"international conference on telecommunication systems, services, and applications (tssa",87,
+"ieee pacific rim conference on communications, computers and signal processing (pacrim)",87,
+"ieee international conference on system, computation, automation and networking (icsca)",87,
+international conference on advanced computer science and information systems (icacsis),87,
+fifth world conference on smart trends in systems security and sustainability (worlds4),87,
+ieee international conference on advanced networks and telecommuncations systems (ants),87,
+proceedings of the international conference on autonomous agents and multi-agent systems,88,
+proceedings of the international workshop on systems and network telemetry and analytics,88,
+proceedings of the the international conference on innovation in artificial intelligence,88,
+ieee international conference on advanced information networking and applications (aina),88,
+"international conference on electrical, communication, and computer engineering (icecce)",88,
+ieee international conference on autonomic computing and self-organizing systems (acsos),88,
+international conference on hardware/software codesign and system synthesis (codes+isss),88,
+"international convention on information, communication and electronic technology (mipro)",88,
+proceedings of the international conference on autonomous agents &amp; multiagent systems,89,
+"proceedings of the international conference on mobile systems, applications, and services",89,
+proceedings of the thirteenth acm international conference on embedded software companion,89,
+proceedings of the acm international conference on information &amp; knowledge management,89,
+"proceedings of the fifth international conference on network, communication and computing",89,
+ieee international conference on intelligent computer communication and processing (iccp),89,
+"international conference on internet of things: systems, management and security (iotsms)",89,
+international conference on advanced technologies for signal and image processing (atsip),89,
+"ieee international conference on anti-counterfeiting, security, and identification (asid)",89,
+ieee international conference on future internet of things and cloud workshops (ficloudw),89,
+acm/ieee international symposium on empirical software engineering and measurement (esem),89,
+proceedings of the acm international on conference on information and knowledge management,90,
+proceedings of the international conference on research in adaptive and convergent systems,90,
+sixth ieee international workshop on systematic approaches to digital forensic engineering,90,
+"ieee advanced information technology, electronic and automation control conference (iaeac)",90,
+ieee international conference on computational intelligence and computing research (iccic),90,
+annual international conference of the ieee engineering in medicine biology society (embc),90,
+proceedings of annual international conference on computer science and software engineering,91,
+proceedings of the acm sigplan symposium on principles and practice of parallel programming,91,
+proceedings of the acm workshop on security and privacy in smartphones &amp; mobile devices,91,
+proceedings of the international conference on computer science and application engineering,91,
+proceedings of the acm conference on security and privacy in wireless &amp; mobile networks,91,
+"sixth international conference on social networks analysis, management and security (snams)",91,
+"international multi-conference on engineering, computer and information sciences (sibircon)",91,
+international conference on electrical and computing technologies and applications (icecta),91,
+international conference on emerging trends in networks and computer communications (etncc),91,
+proceedings of the acm conference on innovation and technology in computer science education,92,
+proceedings of the tenth international symposium on information and communication technology,92,
+second international conference on electronics and sustainable communication systems (icesc),92,
+international conference on computer sciences and convergence information technology (iccit),92,
+ieee international workshop on signal processing advances in wireless communications (spawc),92,
+"ieee annual information technology, electronics and mobile communication conference (iemcon)",92,
+"ieee international conference on automation, electronics and electrical engineering (auteee)",92,
+conference on blockchain research applications for innovative networks and services (brains),92,
+"international conference in mathematics, computer engineering and computer science (icmcecs)",92,
+sixth international conference on digital information processing and communications (icdipc),92,
+"international conference on electrical engineering, computer science and informatics (eecsi)",92,
+proceedings of the eighth international symposium on information and communication technology,93,
+proceedings of the international conference on cyberspace innovation of advanced technologies,93,
+international multi-conference on industrial engineering and modern technologies (fareastcon),93,
+"seventh international conference on social networks analysis, management and security (snams)",93,
+international conference on computing technologies and intelligent data engineering (icctide),93,
+ieee/acm international symposium on distributed simulation and real time applications (ds-rt),93,
+proceedings of the eighth annual cyber security and information intelligence research workshop,94,
+proceedings of the international conference on software engineering and information management,94,
+proceedings of the international conference on hardware/software codesign and system synthesis,94,
+"ieee/acm international conference on big data computing, applications and technologies (bdcat)",94,
+"international conference on information, cybernetics, and computational social systems (iccss)",94,
+annual ieee/ifip international conference on dependable systems and networks workshops (dsn-w),94,
+"ieee international symposium on ""a world of wireless, mobile and multimedia networks"" (wowmom)",94,
+ieee joint international information technology and artificial intelligence conference (itaic),94,
+ieee workshops of international conference on advanced information networking and applications,94,
+"third international conference on i-smac (iot in social, mobile, analytics and cloud) (i-smac)",94,
+international conference on innovative trends in communication and computer engineering (itce),94,
+third international conference on computational intelligence and information technology (ciit),94,
+"international conference on compilers, architecture and synthesis for embedded systems (cases)",94,
+international symposium on software engineering for adaptive and self-managing systems (seams),94,
+proceedings of the first international workshop on security in embedded systems and smartphones,95,
+proceedings of the fifth acm conference on security and privacy in wireless and mobile networks,95,
+proceedings of the international conference on emerging networking experiments and technologies,95,
+ieee/acm international workshop on engineering and cybersecurity of critical systems (encycris),95,
+ieee/acm fifth international conference on internet-of-things design and implementation (iotdi),95,
+proceedings of the acm sigplan/sigops international conference on virtual execution environments,96,
+"proceedings of the annual international conference on mobile systems, applications, and services",96,
+"proceedings of the international conference on algorithms, computing and artificial intelligence",96,
+"international conference on wireless and mobile computing, networking and communications (wimob)",96,
+ieee second international conference on artificial intelligence and knowledge engineering (aike),96,
+ieee conference of russian young researchers in electrical and electronic engineering (eiconrus),96,
+"ural symposium on biomedical engineering, radioelectronics and information technology (usbereit)",96,
+proceedings of the international conference on computational intelligence and intelligent systems,97,
+"international conference on cyber situational awareness, data analytics and assessment (cyber sa)",97,
+ieee/acm international workshop on software engineering for smart cyber-physical systems (sescps),97,
+ieee international conference on application of information and communication technologies (aict),97,
+fifth international conference on innovative mobile and internet services in ubiquitous computing,97,
+"proceedings of the second international conference on internet of things, data and cloud computing",98,
+proceedings of the international workshop on practical reproducible evaluation of computer systems,98,
+proceedings of the international conference on autonomous agents and multiagent systems - volume 2,98,
+"ieee international conference on collaborative computing: networking, applications and worksharing",98,
+eighth international conference on innovative mobile and internet services in ubiquitous computing,98,
+international conference on innovative trends and advances in engineering and technology (icitaet),98,
+"international conference on soft computing, intelligent system and information technology (icsiit)",98,
+proceedings of the acm international symposium on qos and security for wireless and mobile networks,99,
+proceedings of the international conference on software engineering: new ideas and emerging results,99,
+ieee international conference on pervasive computing and communication workshops (percom workshops),99,
+international congress on ultra modern telecommunications and control systems and workshops (icumt),99,
+"proceedings of the international conference on advances in computing, communications and informatics",100,
+"international conference on radar, antenna, microwave, electronics, and telecommunications (icramet)",100,
+proceedings of the acm international conference on conference on information and knowledge management,101,
+fifth international conference on secure software integration and reliability improvement - companion,101,
+international conference on recent advances in energy-efficient computing and communication (icraecc),101,
+international conference on intelligent information hiding and multimedia signal processing (iih-msp),101,
+proceedings of the international conference on pervasive technologies related to assistive environments,103,
+proceedings of the acm symposium on computer human interaction for management of information technology,103,
+international conference on sciences and techniques of automatic control and computer engineering (sta),103,
+proceedings of the acm/ieee seventh symposium on architectures for networking and communications systems,104,
+proceedings of the acm sigspatial international conference on advances in geographic information systems,104,
+proceedings of the ieee/acm international symposium on distributed simulation and real time applications,104,
+aeit international conference of electrical and electronic technologies for automotive (aeit automotive),104,
+ieee international conference on models and technologies for intelligent transportation systems (mt-its),104,
+"proceedings of the international conference on compilers, architecture and synthesis for embedded systems",105,
+proceedings of the international symposium on software engineering for adaptive and self-managing systems,105,
+"international conference on big data, artificial intelligence and internet of things engineering (icbaie)",105,
+proceedings of the final reports on innovation and technology in computer science education working groups,106,
+proceedings of the international acm sigir conference on research and development in information retrieval,106,
+"sixth international conference on instrumentation measurement, computer, communication and control (imccc)",106,
+fourth international conference on advances in recent technologies in communication and computing (artcom),106,
+"international conference on current trends in computer, electrical, electronics and communication (ctceec)",106,
+proceedings of the workshop program of the international conference on distributed computing and networking,107,
+ieee international conference on humanized computing and communication with artificial intelligence (hccai),107,
+ieee international symposium on object/component/service-oriented real-time distributed computing workshops,107,
+proceedings of the international acm sigir conference on research &amp; development in information retrieval,108,
+ieee international conference on research in computational intelligence and communication networks (icrcicn),108,
+international workshop on building analysis datasets and gathering experience returns for security (badgers),108,
+proceedings companion of the annual acm conference on innovation and technology in computer science education,109,
+"international conference on emerging trends in electrical, electronic and communications engineering (elecom)",109,
+"international convention on information and communication technology, electronics and microelectronics (mipro)",110,
+"ieee international conference on intelligent techniques in control, optimization and signal processing (incos)",110,
+"international conference on privacy, security, risk and trust and international confernece on social computing",110,
+ieee international scientific and technical conference on computer sciences and information technologies (csit),111,
+"ieee tenth international conference on intelligent sensors, sensor networks and information processing (issnip)",111,
+proceedings of the international conference on information integration and web-based applications &amp; services,112,
+"proceedings of the international acm conference on modeling, analysis and simulation of wireless and mobile systems",115,
+"proceedings of the second international conference on computational science, engineering and information technology",115,
+"international conference quality management, transport and information security, information technologies (it qm is)",116,
+"international conference on advanced trends in radioelecrtronics, telecommunications and computer engineering (tcset)",117,
+adjunct proceedings of the international conference on mobile and ubiquitous systems: computing networking and services,119,
+ieee international multi-disciplinary conference on cognitive methods in situation awareness and decision support (cogsima),123,
+"proceedings of the acm sigcomm conference on applications, technologies, architectures, and protocols for computer communication",128,
+ieee international conference on pervasive computing and communications workshops and other affiliated events (percom workshops),128,
+proceedings of the twenty-fifth international conference on architectural support for programming languages and operating systems,129,
+proceedings of the twenty-second international conference on architectural support for programming languages and operating systems,130,
+"ieee/acis international conference on software engineering, artificial intelligence, networking and parallel/distributed computing (snpd)",137,
+"joint international conference on informatics, electronics vision (iciev) and international conference on imaging, vision pattern recognition (icivpr)",150,
+ieee international conference on cyber security and cloud computing (cscloud)/ieee international conference on edge computing and scalable cloud (edgecom),154,
+international conference on software engineering computer systems and international conference on computational science and information management (icsecs-icocsim),163,
+adjunct proceedings of the acm international joint conference on pervasive and ubiquitous computing and proceedings of the acm international symposium on wearable computers,172,
+proceedings of the joint acm sigsoft conference -- qosa and acm sigsoft symposium -- isarcs on quality of software architectures -- qosa and architecting critical systems -- isarcs,180,
+"ieee intl conference on big data security on cloud (bigdatasecurity), ieee intl conference on high performance and smart computing, (hpsc) and ieee intl conference on intelligent data and security (ids)",202,
+"ieee international conference on internet of things (ithings) and ieee green computing and communications (greencom) and ieee cyber, physical and social computing (cpscom) and ieee smart data (smartdata)",203,
+"ieee smartworld, ubiquitous intelligence computing, advanced trusted computed, scalable computing communications, cloud big data computing, internet of people and smart city innovation (smartworld/scalcom/uic/atc/cbdcom/iop/sci)",228,
+"ieee intl conf on parallel distributed processing with applications, ubiquitous computing communications, big data cloud computing, social computing networking, sustainable computing communications (ispa/iucc/bdcloud/socialcom/sustaincom)",238,
